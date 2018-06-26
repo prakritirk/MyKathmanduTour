@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">MyKathmanduTour</string>
+    <string name="info">More Info</string>
+    <!---Category Names.-->
+    <string name="category_monuments">Monuments</string>
+    <string name="category_tours">Tours</string>
+    <string name="category_sites">Historic Sites</string>
+    <string name="category_restaurants">Eateries</string>
+
+    <!---Monuments and address.-->
+    <string name="monument_pashupati">Pasupatinath Temple</string>
+    <string name="pashupati_address">Pashupati Nath Road 44621</string>
+    <string name="monument_sahidgate">Sahid Gate</string>
+    <string name="sahidgate_address">Roundabout | Jamal</string>
+    <string name="monument_mandala">Mandala</string>
+    <string name="mandala_address">Thapathali | New Baneshowr</string>
+    <string name="monument_nautalle">Nautalle Durbar</string>
+    <string name="nautalle_address">Layaku Marg | Basantapur</string>
+    <string name="monument_mahadev">Tallest Lord Shiva Statue</string>
+    <string name="mahadev_address">Sanga | Chittapol</string>
+    <string name="monument_bhairav">Bhairav Nath</string>
+    <string name="bhairav_address">Layaku | Durbar Square </string>
+    <string name="monument_stupa">Ashok Stupa</string>
+    <string name="stupa_address">Ashok Galli, Thamel | South Thamel</string>
+
+    <!---Historical sites and address.-->
+    <string name="site_boudha">Boudhanath Stupa</string>
+    <string name="boudha_address">Boudh | Boudha 44600</string>
+    <string name="site_swayambhu">Swambhu Circle Road</string>
+    <string name="swayambhu_address">SwayambhuNath </string>
+    <string name="site_kopan">Kopan Monastery</string>
+    <string name="kopan_address">Kopan | Kathmandu </string>
+    <string name="site_durbar_square">Kathmandu Durbar Square</string>
+    <string name="durbar_square_address">Durbar Square | Basantapur</string>
+    <string name="site_budhanilkantha">Budhanilkantha Temple</string>
+    <string name="budhanilkantha_address">Shivapuri| Budhanilkantha 44606 </string>
+    <string name="site_bhaktapur_durbar">Bhaktapur Durbar Square</string>
+    <string name="bhaktapur_address">Durbar Square| Bhaktapur 44800 </string>
+    <string name="site_patan_durbar">Patan Durbar Square</string>
+    <string name="patan_address">Patan| Lalitpur </string>
+
+    <!---Restaurants and address.-->
+    <string name="restro_black_olive">Black Olive</string>
+    <string name="restro_or2k">OR2K</string>
+    <string name="restro_third_eye">Third Eye</string>
+    <string name="restro_alice">Alice Restaurant</string>
+    <string name="restro_bajeko">Bajeko Sekuwa</string>
+    <string name="olive_address">Thamel | Call: 4700956</string>
+    <string name="or2k_address">Thamel | Call: 4422097</string>
+    <string name="alice_address">GairiDhara, Balwatar | Call:4429207</string>
+    <string name="third_address">JP Road Thamel | Call: 4260289</string>
+    <string name="bajeko_address">Sankhu | Call: 44992130</string>
+
+    <!---Tour names and details.-->
+    <string name="tour_cooking">Cooking Tour Kathmandu</string>
+    <string name="tour_world_heritage">Seven World Heritage Tour</string>
+    <string name="tour_temple">Private Temple Tours</string>
+    <string name="tour_sunrise">5-day Sunrise Tour</string>
+    <string name="tour_hike"> Hike and Trek Tour</string>
+    <string name="tour_day">Patan and Bhaktapur Tour</string>
+    <string name="hike_detail">Private hike and treks\nMart Treks|Call:556242 </string>
+    <string name="day_detail">Private tour of Patan and Bhaktapur\nPigeon Travels| Call:112546</string>
+    <string name="sunrise_detail">Visit all medieval heritages \nPigeon Travels| Call:4456478</string>
+    <string name="cooking_detail">Taste and cook Local cuisine\nHimalayan Advisor| Call:558452 </string>
+    <string name="world_heritage_detail">Day tour of all 7 World Heritages\nPlanet Adventures| Call:9851022246</string>
+    <string name="temple_detail">Private tour of Pashupati and Boudha\nPigeon Travels| Call:112546 </string>
+
+    <!--Tour Links -->
+    <string name="web">https://www.google.com</string>
+    <string name="web_pashupati_tour">https://www.tripadvisor.com/AttractionProductDetail-g293890-d12469568-Private_Tour_of_Pashupatinath_and_Bouddhanath-Kathmandu_Kathmandu_Valley_Bagmati_Zone_Central_Region.html</string>
+    <string name="web_pegion_travels">http://www.pigeontravels.com/contactUs.html</string>
+    <string name="web_planet_adventures">https://www.tripadvisor.com/Attraction_Review-g293890-d7367467-Reviews-Himalayan_Planet_Adventures_Day_Tours-Kathmandu_Kathmandu_Valley_Bagmati_Zone_Cen.html</string>
+    <string name="web_hiking_tour">https://www.tripadvisor.com/Attraction_Review-g293890-d2098433-Reviews-Nepal_Hiking_Team-Kathmandu_Kathmandu_Valley_Bagmati_Zone_Central_Region.html</string>
+    <string name="web_cooking_tour">https://www.tripadvisor.com/Attraction_Review-g293890-d3973075-Reviews-Nepali_Cooking_Course_Day_Class-Kathmandu_Kathmandu_Valley_Bagmati_Zone_Central_R.html</string>
+    <string name="web_sunrise_tour">https://www.tripadvisor.com/AttractionProductReview-g293890-d12337422-5_Day_Sunrise_Tour_in_Kathmandu_Near_Everest-Kathmandu_Kathmandu_Valley_Bagmati_Zo.html</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
